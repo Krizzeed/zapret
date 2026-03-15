@@ -1,0 +1,2 @@
+# zapret
+for s
